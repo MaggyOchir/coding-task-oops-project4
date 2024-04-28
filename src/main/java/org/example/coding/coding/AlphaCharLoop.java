@@ -1,4 +1,4 @@
-package org.example;
+package org.example.coding.coding;
 //Find out how many alpha characters are present in a string?
 public class AlphaCharLoop {
     public static void main(String[] args) {

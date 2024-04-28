@@ -1,4 +1,4 @@
-package org.example;
+package org.example.coding.coding;
 
 public class swap {
     //Write a program to swap 2 String without a temporary variable?
